@@ -171,7 +171,8 @@ Log files are configured in `app/logger.py`.
 ---
 
 ## Screenshots (For Submission)
-1. Successful **GitHub Actions** workflow run  
+1. Successful **GitHub Actions** workflow run
+![Github Action Working](Images/image.png)
 2. Application running in the browser (`/docs` endpoint)
 ![Homepage](<Images/Screenshot 2025-10-27 190635.png>)
 ![Using Multiplication operation](<Images/Screenshot 2025-10-27 190654.png>)
